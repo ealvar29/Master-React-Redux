@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using RedMango_API.Data;
+using React_API.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
